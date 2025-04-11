@@ -1,0 +1,9 @@
+portfolio/
+├── index.html
+├── style.css
+├── README.md
+└── images/
+    ├── my_photo.JPG
+    ├── White and Black Professional Magazine Cover-2_page-0001.jpg
+    ├── interview.jpeg
+    └── reportage.jpg
