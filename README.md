@@ -13,4 +13,4 @@ I graduated from high school with honors and was admitted to university on a sta
 I’m passionate about web development and journalism.
 
 ## Live site:
-👉 [Click here to visit my portfolio](https://nazarbayevadiana.github.io/portfolio)
+ [Click here to visit my portfolio](https://nazarbayevadiana.github.io/portfolio)
